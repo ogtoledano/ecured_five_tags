@@ -1,0 +1,21 @@
+Dataset for text categorizarion task in Spanish was developed by sketchengine online web tool. 
+Using web scrapping engine (bing) we collected articles from cuban wikimedia ECURED: https://www.ecured.cu/
+
+It defines five main tags <tags: keywords>:
+
+deporte: "serie nacional",boxeo,deporte,atletismo
+ciencia: fisica, matematica, "ciencias naturales"
+historia: "personajes historicos", "historia de cuba", "historia universal"
+salud: salud,sistema de salud,educacion sexual, medicamento, medicina natural
+cultura: fiestas populares, arte universal, cultura nacional,arte,cultura
+
+
+EXPERIMENTS_RESULTS:root:Found unique tokens: 53208
+EXPERIMENTS_RESULTS:root:Number of instances for training: 
+EXPERIMENTS_RESULTS:root:686
+EXPERIMENTS_RESULTS:root:Number of instances for testing: 
+EXPERIMENTS_RESULTS:root:294
+EXPERIMENTS_RESULTS:root:Found unique tokens: 53208
+
+
+
